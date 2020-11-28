@@ -1,2 +1,8 @@
 # jupyter_templates
 templates for converting jupyter notebooks
+
+Add these templates to 
+`~/.jupyter/templates`
+
+Use these templates by running:
+`$ jupyter-nbconvert --to python --template my_template my_notebook.ipynb`
