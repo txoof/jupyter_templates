@@ -1,3 +1,7 @@
+# UPDATE:
+
+Just use [Jupytext](https://jupytext.readthedocs.io/en/latest/). Jupytext is cleaner, more reliable and doesn't involve fiddling with jinja templates.
+
 # jupyter_templates
 templates for converting jupyter notebooks
 
